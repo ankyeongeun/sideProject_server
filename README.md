@@ -1,6 +1,6 @@
 # sideProject
 side project based on js 
 
-- nodeJs 
+- nestJs 
 - (mayBe..) react-native
 
